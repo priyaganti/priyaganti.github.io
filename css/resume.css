@@ -126,7 +126,7 @@ h2.highlight{
   margin: 10px;
 }
 
-.resume-date span {
+.resume-date span, .subheading {
   color: #E7717D;
   font-weight: bold;
 }
