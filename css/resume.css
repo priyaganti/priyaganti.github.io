@@ -83,6 +83,10 @@ section.resume-section {
   padding-bottom: 5rem !important;
 }
 
+h1.name-title {
+  color: #7E685A;
+}
+
 
 .bg-primary {
   background-color: #E7717D !important;
