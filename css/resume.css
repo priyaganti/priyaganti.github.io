@@ -37,6 +37,11 @@ h3 {
   font-weight: 500;
 }
 
+h4 {
+  text-transform: none;
+  font-weight: 400;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
@@ -106,4 +111,22 @@ h1.name-title {
 
 .navbar-dark .navbar-nav .nav-link{
     color: #323141;
+}
+
+h2.highlight{
+  color: #7E685A;
+}
+
+.exp-box{
+  border: 3px solid #7E685A;
+  margin-bottom: 20px;
+}
+
+.exp-p{
+  margin: 10px;
+}
+
+.resume-date span {
+  color: #E7717D;
+  font-weight: bold;
 }
